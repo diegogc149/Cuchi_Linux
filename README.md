@@ -23,14 +23,6 @@ O:::::::OOO:::::::O          RR:::::R     R:::::R   A:::::A             A:::::A 
    OO:::::::::OO             R::::::R     R:::::R A:::::A                 A:::::A I::::::::I      T:::::::::T      !!:!!
      OOOOOOOOO               RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAAIIIIIIIIII      TTTTTTTTTTT       !!! 
                                                                                                                         
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                                  
-                                                                                                                                  
                                                                                                                                  ``` 
                                                                                                                                   
                                                                                                                                   
