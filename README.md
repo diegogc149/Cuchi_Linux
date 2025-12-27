@@ -3,7 +3,7 @@
 Un nuevo sistema operativo usando el kernel de Linux con utilidades propias modificadas de GNU basado en el mejor ser humano que pisó esta tierra (Cuchi Cuchi)
 > O rait! — Cuchi
 ...
-                                                                                                                              
+                                                                                                                                  
                                                                                                                                   
      OOOOOOOOO                         RRRRRRRRRRRRRRRRR                  AAA               IIIIIIIIIITTTTTTTTTTTTTTTTTTTTTTT !!! 
    OO:::::::::OO                       R::::::::::::::::R                A:::A              I::::::::IT:::::::::::::::::::::T!!:!!
@@ -21,6 +21,11 @@ O:::::::OOO:::::::O                    RR:::::R     R:::::R   A:::::A           
  OO:::::::::::::OO                     R::::::R     R:::::R  A:::::A               A:::::A  I::::::::I      T:::::::::T       !!! 
    OO:::::::::OO                       R::::::R     R:::::R A:::::A                 A:::::A I::::::::I      T:::::::::T      !!:!!
      OOOOOOOOO                         RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAAIIIIIIIIII      TTTTTTTTTTT       !!! 
-
-     
-...                                                                                                                                                                                                                                                      
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+...                                                                                                                                                                                                    
